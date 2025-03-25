@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JavaBurn Coffee – Boost Metabolism & Support Weight Loss</title>
-    <!-- STYLE TAG MOVED TO HEAD -->
+    <title>JavaBurn Coffee – Official Site | Boost Metabolism & Lose Weight</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -28,12 +27,16 @@
         .cta-button {
             display: inline-block;
             padding: 15px 30px;
-            background-color: #FFA500;
+            background-color: #FF4500;
             color: white;
             text-decoration: none;
             border-radius: 5px;
             font-weight: bold;
             margin: 20px 0;
+            transition: background-color 0.3s;
+        }
+        .cta-button:hover {
+            background-color: #FF6347;
         }
         .benefits {
             display: grid;
@@ -46,22 +49,72 @@
             padding: 20px;
             border-radius: 10px;
             margin: 20px 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
         .guarantee {
             text-align: center;
             padding: 30px;
             background-color: #fff3cd;
+            border-radius: 10px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
         }
     </style>
 </head>
 <body>
-    <!-- Body content remains unchanged -->
     <div class="header">
         <div class="container">
-            <h1>🔥 JavaBurn Coffee: Boost Your Metabolism & Support Weight Loss!</h1>
-            <a href="https://c31873e6shcp1bvaerea9n0x2t.hop.clickbank.net" class="cta-button">👉 Get 75% Off Now</a>
+            <h1>🔥 JavaBurn Coffee: Boost Metabolism & Burn Fat Naturally!</h1>
+            <p>235,000+ Users Worldwide | Doctor-Approved Formula</p>
+            <a href="https://c31873e6shcp1bvaerea9n0x2t.hop.clickbank.net" class="cta-button">👉 Click Here for 75% OFF + FREE Shipping</a>
+            <p><small>Limited Discount Available - Claim Before Stock Runs Out!</small></p>
         </div>
     </div>
-    <!-- Rest of your body content -->
+
+    <div class="container">
+        <div class="benefits">
+            <div>
+                <h2>🌟 Why JavaBurn Works</h2>
+                <ul>
+                    <li>✅ <strong>Accelerates Metabolism</strong> - Burn calories 24/7</li>
+                    <li>✅ <strong>100% Natural Ingredients</strong> - No stimulants or chemicals</li>
+                    <li>✅ <strong>Easy to Use</strong> - Mix with coffee in seconds</li>
+                    <li>✅ <strong>90-Day Money-Back Guarantee</strong></li>
+                </ul>
+            </div>
+            <div>
+                <!-- Replace with your image URL -->
+                <img src="https://example.com/javaburn-image.jpg" alt="JavaBurn Coffee Supplement">
+            </div>
+        </div>
+
+        <div class="testimonial">
+            <h3>💬 "I Lost 22lbs Without Dieting!"</h3>
+            <blockquote>
+                "After 2 months of JavaBurn, I fit into jeans I haven't worn in years! It works with your coffee routine - no extra effort needed!"<br>
+                - Emily R., Verified Customer
+            </blockquote>
+        </div>
+
+        <h2>⏳ How to Use JavaBurn</h2>
+        <ol>
+            <li>Stir 1 packet into your morning coffee</li>
+            <li>Let the natural ingredients boost your metabolism</li>
+            <li>Experience gradual, sustainable weight loss</li>
+        </ol>
+
+        <div class="guarantee">
+            <h3>🔒 90-Day Satisfaction Guarantee</h3>
+            <p>If you're not amazed by your results, get every penny back - no questions asked!</p>
+        </div>
+
+        <center>
+            <a href="https://c31873e6shcp1bvaerea9n0x2t.hop.clickbank.net" class="cta-button">🚀 Get Your Discounted JavaBurn Now →</a>
+            <p><em>Special Offer: Prices increase when timer hits zero!</em></p>
+        </center>
+    </div>
 </body>
 </html>

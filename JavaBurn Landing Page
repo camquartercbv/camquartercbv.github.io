@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaBurn Coffee – Boost Metabolism & Support Weight Loss</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 40px 0;
+            background-color: #8B4513; /* Coffee brown */
+            color: white;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #FFA500; /* Orange for urgency */
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            margin: 20px 0;
+        }
+        .benefits {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            padding: 20px 0;
+        }
+        .testimonial {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        .guarantee {
+            text-align: center;
+            padding: 30px;
+            background-color: #fff3cd;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <h1>🔥 JavaBurn Coffee: Boost Your Metabolism & Support Weight Loss!</h1>
+            <p>Discover the Secret Coffee Hack Used by 235,000+ People Worldwide</p>
+            <a href="YOUR_AFFILIATE_LINK_HERE" class="cta-button">👉 Get 75% Off + Free Shipping Now</a>
+            <p><small>Limited Stock Available – Claim Your Discount Before It’s Gone!</small></p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="benefits">
+            <div>
+                <h2>🌟 Why JavaBurn?</h2>
+                <ul>
+                    <li>✅ <strong>Boost Metabolism</strong> – Burn calories effortlessly</li>
+                    <li>✅ <strong>Natural Ingredients</strong> – No harmful chemicals</li>
+                    <li>✅ <strong>Easy to Use</strong> – Mix with your morning coffee</li>
+                    <li>✅ <strong>90-Day Money-Back Guarantee</strong></li>
+                </ul>
+            </div>
+            <div>
+                <img src="https://example.com/javaburn-image.jpg" alt="JavaBurn Coffee" style="width:100%; border-radius:10px;">
+            </div>
+        </div>
+
+        <div class="testimonial">
+            <h3>💬 Real Users, Real Results</h3>
+            <blockquote>
+                "I lost 18 lbs in 3 months without changing my diet! JavaBurn made my morning coffee a fat-burning machine!" – Sarah J.
+            </blockquote>
+        </div>
+
+        <h2>⏳ How It Works</h2>
+        <ol>
+            <li>Add 1 scoop of JavaBurn to your morning coffee</li>
+            <li>Let the natural ingredients boost your metabolism</li>
+            <li>Watch stubborn fat melt away over time</li>
+        </ol>
+
+        <div class="guarantee">
+            <h3>🔒 You’re 100% Safe with Our 90-Day Guarantee</h3>
+            <p>If you’re not satisfied, get a full refund – no questions asked!</p>
+        </div>
+
+        <center>
+            <a href="YOUR_AFFILIATE_LINK_HERE" class="cta-button">🚀 Claim Your Discount Now →</a>
+            <p><em>Limited Time Offer – Prices Rising Soon!</em></p>
+        </center>
+    </div>
+
+    <!-- Add FAQ section here if needed -->
+</body>
+</html>
